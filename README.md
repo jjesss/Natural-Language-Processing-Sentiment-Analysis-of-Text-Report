@@ -57,6 +57,7 @@ prediction accuracy of 50% and the Decision Tree has one of 43%. Meaning the ove
 Discriminant Analysis model is the most accurate at predicting the sentimental labels of the Tweets
 in the dataset.
 The confusion matrices for the three models:
+
 ![image](https://github.com/jjesss/Natural-Language-Processing-Sentiment-Analysis-of-Text-Report/assets/77901330/6c6db337-9e60-41b0-aab5-e4cc962813a4)
 
 From the confusion table, the following measures are calculated: (to the nearest percentage)
