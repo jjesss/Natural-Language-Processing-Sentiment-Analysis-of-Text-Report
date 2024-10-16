@@ -24,7 +24,7 @@ be split into a training section of training features and labels which will trai
 and then these models will be tested using the remaining data, the testing section. The model uses
 the testing features to make predictions which are then compared with their labels.
 After importing the csv file into MATLAB as a table, I built a Bag of Words containing all the
-tokenised tweets, removed top words and removed any words with fewer than 100 occurrences in
+tokenised tweets, removed stop words and removed any words with fewer than 100 occurrences in
 the bag. Then I built the Term Frequency-Inverse Document Frequency matrix for the resulting bag
 as well as the corresponding label vector from the column of sentiments. The dataset was then split
 into a section for training and one for testing. I used the first 6432 rows of the tf-idf matrix for the
