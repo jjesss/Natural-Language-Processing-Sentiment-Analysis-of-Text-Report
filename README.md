@@ -84,3 +84,8 @@ the size of the smallest group must be larger than the number of predictor varia
 50% accuracy isn’t very high. Therefore, there should be consideration of use of other models such
 as the Support Vector Machine model which is a popular model since it uses little computation
 power but still produces significant accuracy.
+
+
+
+
+Reflection/review Presentation: https://1drv.ms/p/s!AmFNC-QihWg6p3cRFzS20XIt2-rC?e=WT9FtG
